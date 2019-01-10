@@ -14,6 +14,8 @@ Owner Address -->  0xD236cc7DF064f9f3a67EF5564C06f7753c24c3E4
 
 # Distribution breakdown of the SANA-UT Utility Token
 
+![SANAUT](sanautdistgraphic.png)
+
 For payment of services and other client rewards and benefits (60%) 
 
 Held in Treasury Reserve (16%)
