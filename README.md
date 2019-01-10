@@ -66,7 +66,7 @@ Clients of Adsana will be able to earn SANA-UT utility tokens by spreading the w
 # Airdrops & Bounties 
 Airdrops, bounty campaigns, and gamified launch events are designed to motivate people and spread the news. These initiatives can help to garner a critical mass of people curious about the project, raise awareness for the token launch as well as gain early adopters and users of the ecosystem. 
 
-# After the complete of both the Pre-sale and the Main SANA security token sale (STO) sale, Adsana will issue the utility token.
+# After the complete of both the Pre-sale and the Main SANA security token sale (STO), Adsana will issue the utility token.
 
 
 
