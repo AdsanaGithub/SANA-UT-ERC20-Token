@@ -1,6 +1,8 @@
-# SANAUT - SANA Ethereum Erc20 Utility Token 
+# SANAUT - SANA-UT Ethereum ERC20 Utility Token 
 
-The SANAUT solidity smart contract code has been tested and launched on the Ropsten test network, the official Ethereum Etherscan Network
+The contract is configured to distribute SANA-UT utility tokens to Ethereum ERC20 compatible wallet addresses.  These can be addresses for Adsana application specific functionalities, payments, rewards, treasury, token holders, team, bounties and airdrops.  
+
+The SANAUT solidity smart contract code has been tested and launched on the Ropsten test network, the official Ethereum Etherscan Network.  The smart contract code distributed tokens to test Ethereum ERC20 wallet addresses for less than $5 in Ethereum gas cost and has the ability to do this to an unlimited number of addresses for under $10 in Ethereum gas cost, which is ideal.      
 
 Ropsten Link :-  -->   https://ropsten.etherscan.io/tx/0xa7cb56f92051bd579dff1306eabd987d3474cffb887832cbd11bf72ae19fbbce
 
@@ -10,11 +12,7 @@ Token Address -->  0x6a31cc4c86cacb57284330af5bc7080e0600b5fc
 Airdrop Contract Address -->  0x834b9725a64fc998ce5c7bf16321baeca5962e82
 Owner Address -->  0xD236cc7DF064f9f3a67EF5564C06f7753c24c3E4
 
-The contract is configured to distribute SANA-UT utility tokens to Ethereum ERC20 compatible wallets (finish this)
-
 # Distribution breakdown of the SANA-UT Utility Token
-
-SANA-UT-Erc20-Token/sana ut token graphic.png
 
 For payment of services and other client rewards and benefits (60%) 
 
