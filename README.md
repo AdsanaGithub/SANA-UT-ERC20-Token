@@ -1,10 +1,10 @@
 # SANAUT - SANA Ethereum Erc20 Utility Token 
 
-The applications and functionalities of the (SANA-UT) Utility Token ecosystem are described below .
+# The applications and functionalities of the (SANA-UT) Utility Token ecosystem are described below .
 
-Clients will be able to purchase a SANA-UT utility token online line or through our App in advance of needing treatment. They can purchase the SANA-UT utility token with fiat cash, credit card, Bitcoin or Ethereum. The SANA-UT utility token can be purchase in advance similar to a pre-paid credit. The core of our concept relies on the use of smart-contracts and the Ethereum blockchain and holochain to provide every SANA-UT token holder an open, immutable and efficient system in order to process the payments.
+Clients will be able to purchase a SANA-UT utility token online line or through our App in advance of needing treatment. They can purchase the SANA-UT utility token with fiat cash, credit card, Bitcoin or Ethereum. The SANA-UT utility token can be purchased in advance similar to a pre-paid credit card or gift card. The core of our concept relies on the use of smart-contracts on the Ethereum and Holochain blockchain to provide every SANA-UT token holder an open, immutable and efficient system in order to secure and protect health care data and process payments. 
 
-In-clinic treatment payment:
+# In-clinic treatment payment:
 The SANA-UT utility token allows patients or dog owners to pre-pay or make payments for their treatment through our App from their internet or enabled smart device. Owners of SANA-UT utility token when using them for payment of the treatment will received a 20% discount on the treatment cost which is expected to be $4,000 for the full treatment. A 20% discount would be $3,200 for the full treatment.
 
 After the complete of both the Pre-sale and the Main SANA security token sale (STO) sale, Adsana will issue the utility token.
