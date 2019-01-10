@@ -14,6 +14,8 @@ The contract is configured to distribute SANA-UT utility tokens to Ethereum ERC2
 
 # Distribution breakdown of the SANA-UT Utility Token
 
+SANA-UT-Erc20-Token/sana ut token graphic.png
+
 For payment of services and other client rewards and benefits (60%) 
 
 Held in Treasury Reserve (16%)
