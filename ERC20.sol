@@ -10,13 +10,13 @@ import "../node_modules/openzeppelin-solidity/contracts/token/ERC20/StandardToke
  * Note they can later distribute these tokens as they wish using `transfer` and other
  * `StandardToken` functions.
  */
-contract SANA is StandardToken {
+contract SANAUT is StandardToken {
 
-  string public constant name = "SANA"; //
-  string public constant symbol = "SANA"; //
+  string public constant name = "SANAUT"; //
+  string public constant symbol = "SANAUT"; //
   uint8 public constant decimals = 18; //
 
-  uint256 public constant INITIAL_SUPPLY = 198000000 * (10 ** uint256(decimals));
+  uint256 public constant INITIAL_SUPPLY = 500000000 * (10 ** uint256(decimals));
 
   /**
    * @dev Constructor that gives msg.sender all of existing tokens.
