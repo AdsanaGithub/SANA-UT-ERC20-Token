@@ -5,13 +5,13 @@ import "./BaseToken.sol";
 contract Token is BaseToken {
     
     // Constants
-    string  public constant name = "SANAUTH";
-    string  public constant symbol = "SANAUTH";
+    string  public constant name = "SANAUT";
+    string  public constant symbol = "SANAUT";
     uint8   public constant decimals = 18;
 
-    uint256 public constant INITIAL_SUPPLY      =  2000000000 * (10 ** uint256(decimals));
-    uint256 public constant CROWDSALE_ALLOWANCE =  1000000000 * (10 ** uint256(decimals));
-    uint256 public constant ADMIN_ALLOWANCE     =  1000000000 * (10 ** uint256(decimals));
+    uint256 public constant INITIAL_SUPPLY      =  500000000 * (10 ** uint256(decimals));
+    uint256 public constant CROWDSALE_ALLOWANCE =  300000000 * (10 ** uint256(decimals));
+    uint256 public constant ADMIN_ALLOWANCE     =  2000000000 * (10 ** uint256(decimals));
     
     // Properties
     //uint256 public totalSupply;
